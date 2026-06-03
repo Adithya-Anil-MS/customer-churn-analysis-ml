@@ -53,5 +53,3 @@ Churn status
 Example Topics / Tags
 
 
-random-forest
-logistic-regression
